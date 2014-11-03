@@ -11,10 +11,10 @@ highlighter: pygments
 title : LDS BSA Troop 460
 tagline: A scout is clean
 author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
+  name : Troop 460 Historian
+  email : Lakeridge6YM@gmail.com
+  github : bsatroop460
+  twitter : false
   feedburner : github/tNPp
  
 # The production_url is only used when full-domain names are needed
